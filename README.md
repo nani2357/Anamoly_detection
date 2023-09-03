@@ -31,3 +31,7 @@ The anamolies have several classifications -
     A set of data instance is responsible to track this anamoly. If someone is remotely using a machine and extracting the information to the local host. It gives the sign of the cyber attack.
 
 ![alt text](https://i.stack.imgur.com/4ZArw.jpg)
+
+# **Maths used in Anamoly Detection**
+
+![alt text](https://image.slidesharecdn.com/anomalydetectionpart120150114-150121042933-conversion-gate01/95/anomaly-detection-part-1-12-638.jpg?cb=1421820000)
